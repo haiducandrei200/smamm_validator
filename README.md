@@ -1,0 +1,1 @@
+# smamm_validator
